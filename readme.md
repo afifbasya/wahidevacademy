@@ -7,6 +7,19 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
 
+##CARA INSTALASI (WAJIB DIBACA)
+
+<ul>
+    <li>Download Project ini atau Clone</li>
+    <li>Letakkan di htdocs untuk yang memakai xampp dan yang lain mengikuti</li>
+    <li>Pastikan Laptop/PC anda sudah terinstall Composer</li>
+    <li>Buka CMD masuk ke projek anda</li>
+    <li>Jalan kan command "composer update" tunggu sampai selesai</li>
+    <li>Rename env.example menjadi .env</li>
+    <li>Jalan kan command "php artisan key:generate" tunggu sampai selesai</li>
+    <li>Selesai</li>
+<ul>
+
 ## BELAJAR LARAVEL PEMULA WAHIDEV ACADEMY
 
 CRUD
